@@ -1,0 +1,15 @@
+{
+  "name": "g-tatar-autocorrect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "content.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hunspell-wasm": "^0.3.0"
+  }
+}
